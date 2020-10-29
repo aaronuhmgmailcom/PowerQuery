@@ -1,4 +1,5 @@
-﻿// Overview of the Steam Web API: https://developer.valvesoftware.com/wiki/Steam_Web_API#License_and_further_documentation
+﻿// peter comment
+// Overview of the Steam Web API: https://developer.valvesoftware.com/wiki/Steam_Web_API#License_and_further_documentation
 section Steam;
 
 BaseImageUrl = "http://media.steampowered.com/steamcommunity/public/images/apps/";
